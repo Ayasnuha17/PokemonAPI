@@ -8,7 +8,16 @@
 }
 
 .navbar {
-  background-color: #ef5350 !important;
+  background-color: #fd7e14 !important;
+}
+
+.choose {
+  background-color: #f8d138 !important;
+}
+
+.details {
+  background-color: #dc3545 !important;
+  color: #fafafa;
 }
 
 body {

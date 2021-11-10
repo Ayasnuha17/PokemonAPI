@@ -5,11 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css';
 
-import backgroundImage from './pattern.png';
+import backgroundImage from './pattern3.jpg';
 
 import NavBar from './components/layout/NavBar';
 import Dashboard from './components/layout/Dashboard';
-import SearchBar from './components/search/SearchBar';
 import Pokemon from './components/pokemon/Pokemon';
 
 class App extends Component {
